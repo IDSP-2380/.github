@@ -68,11 +68,12 @@ Through this project, contributors demonstrated proficiency in:
 
 ### 🤝 Soft Skills
 
-* Collaborative asynchronous development & writing
-* Coordinating version control with Git across story updates
-* Creative team communication and narrative cohesion
-* Storyboarding and narrative pacing in limited word count
-* Editorial feedback, turn management, and revision cycles
+* Communicated clearly during stand-ups, planning sessions, and retrospectives.
+* Collaborated closely with cross-functional teammates to meet sprint goals.
+* Took ownership of tasks and communicated blockers early.
+* Solved problems proactively and contributed to team-wide improvements.
+* Managed time effectively to meet deadlines without compromising quality.
+* Embraced feedback and sought continuous learning and growth.
 
 ---
 
