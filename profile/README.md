@@ -76,18 +76,6 @@ Through this project, contributors demonstrated proficiency in:
 
 ---
 
-## 🧪 Sample Stories
-
-### 🌿 The Key in the Vines (Public)
-
-A gothic fantasy about a girl who discovers a crescent-shaped key that unlocks more than just doors. As she descends into the Hollow, the story splits into multiple chains based on each contributor’s vision.
-
-### 🥒 The Pickle and the Frog (Private)
-
-A whimsical fantasy about a glowing pickle, a red-scarved frog, and an ancient amphibian society with a mission to unpickle the moon. Structured with humor, mystery, and strong imagery.
-
----
-
 ## 📌 Future Improvements
 
 * Live collaborative editing with AI feedback
